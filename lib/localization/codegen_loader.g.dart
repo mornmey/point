@@ -1,0 +1,126 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: prefer_single_quotes
+
+import 'dart:ui';
+
+import 'package:easy_localization/easy_localization.dart' show AssetLoader;
+
+class CodegenLoader extends AssetLoader{
+  const CodegenLoader();
+
+  @override
+  Future<Map<String, dynamic>> load(String fullPath, Locale locale ) {
+    return Future.value(mapLocales[locale.toString()]);
+  }
+
+  static const Map<String,dynamic> en = {
+  "hor_pao_point": "HorPao Point",
+  "point": "Points",
+  "card_point": "Card Points",
+  "balance": "Balance",
+  "voucher": "Voucher",
+  "card_voucher": "Card Voucher",
+  "transaction_history": "Transaction History",
+  "all": "All",
+  "income": "Income",
+  "expense": "Expense",
+  "item": "Items",
+  "item_package": "Items Package",
+  "profile": "Profile",
+  "start_date": "Start Date",
+  "end_date": "End Date",
+  "select_date": "Select date",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "change_language": "Change Language",
+  "logout": "Log Out",
+  "retry": "Retry",
+  "confirm": "Confirm",
+  "this_app_need_to_restarted": "This app need be restarted",
+  "enter_valid_date": "Enter valid date",
+  "register": "Register",
+  "basic_register": "Basic Register",
+  "enter_your_name_en": "Enter your full name english",
+  "enter_your_name_km": "Enter your full name khmer",
+  "enter_your_phone_number": "Enter your phone number",
+  "enter_your_dob": "Enter your date of birth",
+  "enter_your_gender": "Enter your gender",
+  "submit": "Submit",
+  "enter_your_password": "Enter your password",
+  "notifications": "Notifications",
+  "transactions": "Transactions",
+  "announcements": "Announcements",
+  "edit_profile": "Edit Profile",
+  "hello": "Hello,",
+  "welcome": "Welcome!",
+  "shop_or_branch": "Shop name or Branch name ...",
+  "scan_qr": "Scan QR",
+  "total": "Total",
+  "my_order": "My Order",
+  "discount": "Discount",
+  "order_time": "Order Time",
+  "order_item": "Order Item",
+  "full_price": "Full Price",
+  "login": "Login",
+  "welcome_to": "Welcome To",
+  "history": "History",
+  "reward": "Reward",
+  "loading": "Loading"
+};
+static const Map<String,dynamic> km = {
+  "hor_pao_point": "ហោប៉ៅ Point",
+  "point": "ពិន្ទុឥណទាន",
+  "card_point": "ពិន្ទុឥណទាន",
+  "balance": "តុល្យភាព",
+  "voucher": "គូប៉ុង",
+  "card_voucher": "គូប៉ុង",
+  "transaction_history": "ប្រវត្តិប្រតិបត្តិការ",
+  "all": "ទាំងអស់",
+  "income": "ចំណូល",
+  "expense": "ចំណាយ",
+  "item": "កញ្ចប់ទំនិញ",
+  "item_package": "កញ្ចប់ទំនិញ",
+  "profile": "ប្រវត្តិរូប",
+  "start_date": "ថ្ងៃចាប់ផ្តើម",
+  "end_date": "ថ្ងៃបញ្ចប់",
+  "select_date": "ជ្រើសរើសកាលបរិច្ឆេទ",
+  "ok": "យល់ព្រម",
+  "cancel": "បោះបង់",
+  "change_language": "ប្ដូរភាសា",
+  "logout": "ចាកចេញ",
+  "retry": "ព្យាយាមម្តងទៀត",
+  "confirm": "បញ្ជាក់",
+  "this_app_need_to_restarted": "កម្មវិធីនេះនឹងបើកម្តងទៀត",
+  "enter_valid_date": "បញ្ចូលកាលបរិច្ឆេទត្រឹមត្រូវ។",
+  "register": "ចុះឈ្មោះ",
+  "basic_register": "ចុះឈ្មោះ",
+  "enter_your_name_en": "បញ្ចូលឈ្មោះពេញរបស់លោកអ្នកជាភាសាអង់គ្លេស",
+  "enter_your_name_km": "បញ្ចូលឈ្មោះពេញរបស់លោកអ្នកជាភាសាខ្មែរ",
+  "enter_your_phone_number": "បញ្ចូលលេខទូរស័ព្ទរបស់លោកអ្នក",
+  "enter_your_dob": "បញ្ចូលថ្ងៃខែឆ្នាំកំណើតរបស់លោកអ្នក",
+  "enter_your_gender": "បញ្ចូលភេទរបស់លោកអ្នក",
+  "submit": "បញ្ចូន",
+  "enter_your_password": "បញ្ចូលពាក្យសម្ងាត់របស់លោកអ្នក",
+  "notifications": "សារជូនដំណឹង",
+  "transactions": "ចំនួនប្រតិបត្តិការ",
+  "announcements": "សេចក្ដីជូនដំណឹង",
+  "edit_profile": "កែប្រវត្តិរូប",
+  "hello": "សួស្តី,",
+  "welcome": "សូមស្វាគមន៍!",
+  "shop_or_branch": "ឈ្មោះហាងឬឈ្មោះសាខា ...",
+  "scan_qr": "ស្គែន QR",
+  "total": "សរុប",
+  "my_order": "ការបញ្ជាទិញរបស់ខ្ញុំ",
+  "discount": "ការបញ្ចុះតម្លៃ",
+  "order_time": "ពេលវេលាបញ្ជាទិញ",
+  "order_item": "ចំនួនបញ្ជាទិញ",
+  "full_price": "តម្លៃពេញ",
+  "login": "ចូលគណនី",
+  "welcome_to": "សូមស្វាគមន៍មកកាន់",
+  "history": "ប្រវត្តិប្រតិបត្តិការ",
+  "reward": "ប្ដូរយករង្វាន់",
+  "loading": "កំពុងដំណើរការ"
+};
+static const Map<String, Map<String,dynamic>> mapLocales = {"en": en, "km": km};
+}
